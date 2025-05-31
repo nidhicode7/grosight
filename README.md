@@ -5,7 +5,6 @@
 <b>Transform your business with <code>Analysr</code></b>
 
 ## ⚡ Speedy Summary
-This is my submission for <code>Airbyte-Motherduck Hackathon - December 2024 - January 2025</code>
 
 Here’s a speedy summary:
 
@@ -131,13 +130,3 @@ Personal Use License - Project just for showcase!
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📬 Contact
-
-For questions and support, please open an issue or contact at btk.codedev@gmail.com
-
----
-
-<div align="center">
-  <strong>Built with ❤️ for growing businesses by</strong> 
-  <a href="https://github.com/btkcodedev" target="_blank" rel="noopener noreferrer">btkcodedev</a>
-</div>
