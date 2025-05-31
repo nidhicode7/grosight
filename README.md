@@ -8,12 +8,6 @@
 
 Here’s a speedy summary:
 
-- **1.0.0**  
-  - With your customer reviews in Motherduck, along with your chosen business stack and areas of interest, Analysr is ready to dish out some insightful analytics. To sweeten the deal, Groq is also integrated to help you navigate all your growth phases.
-  - Your analytics lineup features Aspect Analysis, a Word Sentiment Heatmap (for those feelings), Advanced Text Analysis, Groq Business Analytics, Keyphrase Analysis, and a handy Competitive Advantage.
-  - Check it out at:
-    - <code>[https://growwithanalysr.web.app/](https://growwithanalysr.web.app/) - Production</code>
-    - <code>[https://growwithanalysr-staging.vercel.app/](https://growwithanalysr-staging.vercel.app/) - Experimental, for new features</code>
 
 ## 📽️ Demonstration video
 [![Analysr Demo](https://img.youtube.com/vi/K7LROVzU16A/0.jpg)](https://www.youtube.com/watch?v=K7LROVzU16A)
