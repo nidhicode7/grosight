@@ -4,13 +4,7 @@
 
 <b>Transform your business with <code>Analysr</code></b>
 
-## ⚡ Speedy Summary
 
-Here’s a speedy summary:
-
-
-## 📽️ Demonstration video
-[![Analysr Demo](https://img.youtube.com/vi/K7LROVzU16A/0.jpg)](https://www.youtube.com/watch?v=K7LROVzU16A)
 
 ## 🏗️ Architecture
 ![image](https://github.com/user-attachments/assets/0abe96f6-414a-42d2-aa0d-d0950a7da194)
